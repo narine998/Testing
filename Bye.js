@@ -3,3 +3,5 @@ function sayBye() {
 }
 
 sayBye();
+
+console.log("function worked!");
